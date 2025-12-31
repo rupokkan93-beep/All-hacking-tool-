@@ -1,2 +1,1 @@
-
-import uy
+import uy.py
